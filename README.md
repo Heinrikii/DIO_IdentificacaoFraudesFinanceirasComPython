@@ -107,13 +107,6 @@ O fluxo foi construído em células estilo Jupyter Notebook, cada uma responsáv
 
 ---
 
-# 🕵️‍♂️ Projeto de Detecção de Fraudes em Transações Financeiras
-
-Este projeto aplica **Machine Learning** para identificar fraudes em transações financeiras.  
-O foco principal é **maximizar o recall** (detectar o maior número possível de fraudes), mesmo que isso aumente falsos positivos.
-
----
-
 ## 📊 Fluxo do Projeto
 
 ![Fluxo de Detecção de Fraudes](https://copilot.microsoft.com/th/id/BCO.3492fb76-a4ac-47bf-a553-fb0cb0523d65.png)
